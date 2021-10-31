@@ -1,13 +1,3 @@
-/*------------------------------------------------------------------
-Project:  ComingSoon
-Version:  
-Last change:  
-Assigned to:  Bach Le
-Primary use:  
--------------------------------------------------------------------*/
-
-
-
 /*//////////////////////////////////////////////////////////////////
 [ FONT ]*/
 
@@ -52,12 +42,14 @@ Primary use:
 
 /*---------------------------------------------*/
 .input100 {
+  margin-top: 0.5rem;
   display: block;
   width: 100%;
   height: 100%;
-  padding: 0 40px 0 3px;
-  border-bottom: 1px solid rgba(255,255,255,0.1);
-  background-color: rgba(255,255,255, 0.0);
+  color: whitesmoke;
+  padding: 5px 15px;
+  border-bottom: 1px solid rgba(255, 98, 0, 0.503);
+  background-color: rgba(113, 113, 113, 0.2);
 }
 
 .input100:focus {
@@ -203,7 +195,7 @@ Primary use:
 
 .l1-txt2 {
   font-family: Playlist Script;
-  font-size: 180px;
+  font-size: 100px;
   color: #fff;
   line-height: 1.1;
 }
@@ -360,7 +352,7 @@ Primary use:
   height: 100%;
   top: 0;
   left: 0;
-  background-color: #fff;
+  background-color: rgb(255,96,0);
   border-radius: 50%;
 
   -webkit-transition: all 0.4s;
