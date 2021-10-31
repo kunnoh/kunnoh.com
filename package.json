@@ -1,0 +1,19 @@
+{
+  "name": "kunnoh.com",
+  "version": "1.0.0",
+  "description": "kunnoh portfolio",
+  "main": "index.js",
+  "scripts": {
+    "deploy":"firebase deploy --only hosting:kunnoh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kunnoh/kunnoh.com.git"
+  },
+  "author": "kunnoh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kunnoh/kunnoh.com/issues"
+  },
+  "homepage": "https://github.com/kunnoh/kunnoh.com#readme"
+}
